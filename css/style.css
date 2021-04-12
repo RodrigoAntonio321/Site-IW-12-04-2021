@@ -1,0 +1,99 @@
+body {
+   background-image: url("../img/fundo.jpg"); 
+   background-repeat: round;
+   
+   font-family: arial, sans-serif;
+ }
+
+.container{
+width: 80%
+margin-right: auto;
+margin-left: auto;
+}
+
+header,footer {
+background-color: rgba(0,191,255,0.5); 
+padding: 5%
+
+
+}
+
+figure{
+text-align: center;
+}
+
+
+img { 
+
+ width: 70%
+border: 5px solid #EE82EE;
+ }
+
+	 
+h1,h2 {
+	color:#ffffff ; text-align: center; 
+	font-weight: bolder;
+  margin-top:2%;
+  margin-bottom:2%; 
+}
+p {
+	color:#ffffff; text-align: justify; 
+	font-weight: bolder;
+  font-size: 20px;
+  margin-top:2%;
+  margin-bottom:2%;
+}
+
+
+.centro{
+  color: #00FFFF;
+  text-align: center;
+}
+
+
+ul,li,ol li {
+	color:#ffffff; font-weight: bolder ;
+  font-size: 20px;
+  margin-top:2%;
+  margin-bottom:2%;
+}
+
+
+
+
+}
+
+a:link {
+color: #ffffff
+background-color: transparent;
+text-decoration: none;
+}
+a:visited {
+	color: #ff0000;
+  background-color: transparent;
+text-decoration: none;
+
+}
+a:hover {
+color: #66ff66;
+background-color: transparent;
+text-decoration: none;
+}
+
+
+
+
+  table {
+ color: #fff;
+ font-weight: bold;
+ width: 100%
+ border-collapse: collapse;
+  }
+
+td, th {
+border:5px dashed#dddddd;
+text-align: center;
+padding: 12px;
+  }
+
+  
