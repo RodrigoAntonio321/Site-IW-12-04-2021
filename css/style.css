@@ -2,20 +2,20 @@ body {
    background-image: url("../img/fundo.jpg"); 
    background-repeat: round;
    
-   font-family: arial, sans-serif;
+  font-family: 'Girassol', cursive;
  }
 
-.container{
-width: 80%
-margin-right: auto;
-margin-left: auto;
-}
+
 
 header,footer {
 background-color: rgba(0,191,255,0.5); 
-padding: 5%
+padding: 5%;
 
-
+}
+.container{
+width:70%;
+margin-right: auto;
+margin-left: auto;
 }
 
 figure{
@@ -25,7 +25,7 @@ text-align: center;
 
 img { 
 
- width: 70%
+ width: 85%;
 border: 5px solid #EE82EE;
  }
 
@@ -64,7 +64,7 @@ ul,li,ol li {
 }
 
 a:link {
-color: #ffffff
+color: #ffffff;
 background-color: transparent;
 text-decoration: none;
 }
@@ -86,7 +86,6 @@ text-decoration: none;
   table {
  color: #fff;
  font-weight: bold;
- width: 100%
  border-collapse: collapse;
   }
 
